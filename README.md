@@ -112,9 +112,6 @@ Through this project:
 - Multi-class comparison dashboard
 - Real-time student analytics
 
-## Dashboard Preview
-<img width="2173" height="1185" alt="image" src="https://github.com/user-attachments/assets/194133f9-9ec9-42cf-a8a1-ba8ff3c66a63" />
-
 ---
 
 # 📜 License
